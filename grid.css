@@ -27,6 +27,14 @@ body {
  }
 
 
+.bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
 .basic-grid {
   display: grid;
   gap: 1rem;
